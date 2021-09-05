@@ -1,0 +1,19 @@
+.first-class {
+    color: red;
+    border: 1px solid red;}
+
+#secondID {
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;}
+
+
+    #third {
+        font-size: 15px;
+    }
+
+    .baifern {
+        height: 600px;
+        width: 400px;
+    }
+}
